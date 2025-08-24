@@ -12,9 +12,10 @@
 		"cf-typegen": "wrangler types"
 	},
 	"dependencies": {
-		"@shopify/react-native-skia": "^2.2.3",
+		"@shopify/react-native-skia": "^2.2.4",
 		"react": "^19.1.1",
 		"react-dom": "^19.1.1",
+		"react-native": "^0.81.0",
 		"react-native-gesture-handler": "^2.26.0",
 		"react-native-reanimated": "4.0.2",
 		"react-native-web": "^0.21.1",
